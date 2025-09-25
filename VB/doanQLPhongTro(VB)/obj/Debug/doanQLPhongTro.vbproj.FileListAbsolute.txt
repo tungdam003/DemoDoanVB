@@ -1,0 +1,17 @@
+C:\Users\zinde\source\repos\doanQLPhongTro\doanQLPhongTro\bin\Debug\doanQLPhongTro.exe.config
+C:\Users\zinde\source\repos\doanQLPhongTro\doanQLPhongTro\bin\Debug\doanQLPhongTro.exe
+C:\Users\zinde\source\repos\doanQLPhongTro\doanQLPhongTro\bin\Debug\doanQLPhongTro.pdb
+C:\Users\zinde\source\repos\doanQLPhongTro\doanQLPhongTro\bin\Debug\doanQLPhongTro.xml
+C:\Users\zinde\source\repos\doanQLPhongTro\doanQLPhongTro\obj\Debug\doanQLPhongTro.vbproj.AssemblyReference.cache
+C:\Users\zinde\source\repos\doanQLPhongTro\doanQLPhongTro\obj\Debug\doanQLPhongTro.Form1.resources
+C:\Users\zinde\source\repos\doanQLPhongTro\doanQLPhongTro\obj\Debug\doanQLPhongTro.Resources.resources
+C:\Users\zinde\source\repos\doanQLPhongTro\doanQLPhongTro\obj\Debug\doanQLPhongTro.vbproj.GenerateResource.cache
+C:\Users\zinde\source\repos\doanQLPhongTro\doanQLPhongTro\obj\Debug\doanQLPhongTro.vbproj.CoreCompileInputs.cache
+C:\Users\zinde\source\repos\doanQLPhongTro\doanQLPhongTro\obj\Debug\doanQLPhongTro.exe
+C:\Users\zinde\source\repos\doanQLPhongTro\doanQLPhongTro\obj\Debug\doanQLPhongTro.xml
+C:\Users\zinde\source\repos\doanQLPhongTro\doanQLPhongTro\obj\Debug\doanQLPhongTro.pdb
+C:\Users\zinde\source\repos\doanQLPhongTro\doanQLPhongTro\obj\Debug\doanQLPhongTro.exe.config
+C:\Users\zinde\source\repos\doanQLPhongTro\doanQLPhongTro\obj\Debug\doanQLPhongTro.Form2.resources
+C:\Users\zinde\source\repos\doanQLPhongTro\doanQLPhongTro\obj\Debug\doanQLPhongTro.Form3.resources
+C:\Users\zinde\source\repos\doanQLPhongTro\doanQLPhongTro\obj\Debug\doanQLPhongTro.Form4.resources
+C:\Users\zinde\source\repos\doanQLPhongTro\doanQLPhongTro\obj\Debug\doanQLPhongTro.Form5.resources
